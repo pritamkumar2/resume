@@ -152,4 +152,9 @@ a:hover {
   height: 200px;
    width: 200px;
    border-radius: 100px;
+} 
+.mountain {
+  
+  height: auto;
+  width: 500px;
 }
